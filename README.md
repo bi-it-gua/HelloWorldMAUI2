@@ -39,3 +39,7 @@ Ich habe mithilfe von Figma ein Mockup erstellt, um das Design meiner Applikatio
 ![image](https://github.com/user-attachments/assets/2853f5f6-fe36-4f1e-800b-4a316106b548)
 
 Ich habe ein Mockup für eine FerienPlausch-App erstellt, die es Teilnehmenden ermöglicht, Feedback zu Kursen wie dem Sport- oder Bastelkurs abzugeben. Die App bietet eine Übersicht über die Angebote, eine einfache Bewertungsfunktion mit Emojis und Textfeld sowie eine Seite mit bisherigen Rückmeldungen. Ziel war es, eine benutzerfreundliche und übersichtliche Oberfläche zu gestalten, die anonymes Feedback ermöglicht und Veranstaltenden hilft, ihre Angebote zu verbessern.
+
+## UML-Klassendiagramm & Validation
+
+![image](https://github.com/user-attachments/assets/8deb6236-df1c-4ebd-a050-79bcbd44b5e1)
