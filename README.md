@@ -43,3 +43,7 @@ Ich habe ein Mockup für eine FerienPlausch-App erstellt, die es Teilnehmenden e
 ## UML-Klassendiagramm & Validation
 
 ![image](https://github.com/user-attachments/assets/8deb6236-df1c-4ebd-a050-79bcbd44b5e1)
+
+Sobald man einen Feedbacktext eingibt und auf „Absenden“ klickt, erscheint ebenfalls eine Bestätigung, dass die Rückmeldung erfolgreich übermittelt wurde.
+
+![image](https://github.com/user-attachments/assets/6c325378-ab9c-44ef-adf6-a446d4ef2dc8)
